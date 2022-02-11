@@ -1,2 +1,3 @@
 # Estudos_e_praticas
-Repositorio destinado projetos de estudos para o meu aprendizado  
+Repositorio destinado a projetos de estudos para o meu aprendizado  
+
